@@ -1,1 +1,1 @@
-# ejercicio1_segregacion_interfaces
+# Ejercicio 1, Segregacion de interfaces, principios SOLID
